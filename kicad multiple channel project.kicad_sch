@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4df94d8f-fe30-4475-88ce-09b4a7e720bc)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 38.1 40.64) (size 24.13 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 62d54f5e-1d85-44ba-a010-9fb4db4f1ee9)
+    (property "Sheetname" "Untitled Sheet" (at 38.1 39.9284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ch1.kicad_sch" (at 38.1 65.3546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "kicad multiple channel project"
+        (path "/4df94d8f-fe30-4475-88ce-09b4a7e720bc" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
